@@ -1,0 +1,10 @@
+cnpm  install -g json-server  全局安装
+cnpm  install  json-server   当前安装
+ json-server
+
+json-server --watch db.json
+
+
+C:\Users\用户名.npmrc,这里里面是一起的配置文件删除就可以了
+npm config set prefix "C:\Program Files\nodejs\node_global"
+npm config set cache "C:\Program Files\nodejs\node_cache"
