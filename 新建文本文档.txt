@@ -9,4 +9,4 @@ C:\Users\�û���.npmrc,����������һ������
 npm config set prefix "C:\Program Files\nodejs\node_global"
 npm config set cache "C:\Program Files\nodejs\node_cache"
 
-测试一下  520
+测试一下  5201314
