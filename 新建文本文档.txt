@@ -1,10 +1,12 @@
-cnpm  install -g json-server  È«¾Ö°²×°
-cnpm  install  json-server   µ±Ç°°²×°
+cnpm  install -g json-server  È«ï¿½Ö°ï¿½×°
+cnpm  install  json-server   ï¿½ï¿½Ç°ï¿½ï¿½×°
  json-server
 
 json-server --watch db.json
 
 
-C:\Users\ÓÃ»§Ãû.npmrc,ÕâÀïÀïÃæÊÇÒ»ÆğµÄÅäÖÃÎÄ¼şÉ¾³ı¾Í¿ÉÒÔÁË
+C:\Users\ï¿½Ã»ï¿½ï¿½ï¿½.npmrc,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½É¾ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ï¿½ï¿½
 npm config set prefix "C:\Program Files\nodejs\node_global"
 npm config set cache "C:\Program Files\nodejs\node_cache"
+
+æµ‹è¯•ä¸€ä¸‹  520
